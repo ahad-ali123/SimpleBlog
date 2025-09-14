@@ -1,19 +1,27 @@
-Simple Blog
+# 📝 Simple Blog Website  
 
-A clean and responsive blog landing page built using only HTML and CSS. This was my first project while learning web development basics.
+A clean and responsive **Blog Website** built using **HTML & CSS only**.  
+This project was created to practice modern layouts, typography, and responsive design without using frameworks or JavaScript.  
 
---Features
+---
 
-Responsive layout using Flexbox and CSS Grid
-Sticky navigation bar
-Sidebar with categories and recent posts
-Blog post cards with hover effects
-Clean and modern typography
-Social media icons in the footer
+## ✨ Features  
 
---Technologies Used
+- 📌 Sticky **Navbar** with logo & links  
+- 🎨 Modern **Typography** using Google Fonts (Poppins & Open Sans)  
+- 📰 **Sidebar** with categories and recent posts  
+- 🖼️ **Blog Posts Section** with hover effects  
+- 📱 **Responsive Design** (Mobile, Tablet, Desktop)  
+- ⚡ Pure **HTML & CSS**, no frameworks or JS used  
+- 🔗 Footer with social media icons (Font Awesome)   
 
-HTML5
-CSS3 (Flexbox, Grid, Media Queries)
-Google Fonts
-Font Awesome Icons
+---
+
+## 🚀 Technologies Used  
+
+- **HTML5**  
+- **CSS3 (Flexbox & Grid)**  
+- **Google Fonts (Poppins, Open Sans)**  
+- **Font Awesome Icons**  
+
+---
